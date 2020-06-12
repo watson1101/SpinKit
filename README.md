@@ -1,4 +1,5 @@
 # [SpinKit](http://tobiasahlin.com/spinkit/)
+纯 CSS 实现加载动画的项目
 
 Simple loading spinners animated with CSS. See [demo](http://tobiasahlin.com/spinkit/). SpinKit only uses (`transform` and `opacity`) CSS animations to create smooth and easily customizable animations.
 
